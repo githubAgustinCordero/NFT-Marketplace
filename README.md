@@ -6,21 +6,21 @@ Now go to project folder and run:
 
 $ cd NFT-Marketplace
 
-# install the dependencies
+install the dependencies
 $ yarn
 
-# run ganache
+run ganache
 $ ganache-cli 
 
-# deploy de contracts on the blockchain
+deploy de contracts on the blockchain
 $ truffle migrate
 
-# run the client-side
+run the client-side
 $ cd client
 $ yarn
 $ yarn start
 
-# run the backend
+run the backend
 $ cd backend
 $ yarn
 $ yarn start
