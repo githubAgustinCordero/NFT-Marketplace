@@ -1,6 +1,6 @@
 
 Clone the repository:
-$ git clone https://github.com/BravoNatalie/NFT-Marketplace.git 
+$ git clone https://github.com/githubAgustinCordero/NFT-Marketplace.git 
 
 Now go to project folder and run:
 
